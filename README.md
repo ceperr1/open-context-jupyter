@@ -10,4 +10,4 @@ This repo contains Jupyter Notebooks Relating to Open Context (https://openconte
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/open-context-jupyter/master)
 
-[![Binder](https://hub.gke.mybinder.org/user/ceperr1-open-context-jupyter-3rcb82o8/tree)
+
